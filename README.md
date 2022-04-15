@@ -1,4 +1,4 @@
-### LESSON OBJECTIVES
+# LESSON OBJECTIVES
 ## At The End Of The Lesson, students should be able to:
     1. Know What Javascript Is and History
     2. Manipulate DOM Using Javascript 
